@@ -1,1 +1,0 @@
-This file is created to let viewer know that this folder contains task-1 file for BharatIntern Internship.
